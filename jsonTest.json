@@ -1,1 +1,38 @@
-
+[
+    {
+    "version": "8.0.1",
+    "releaseDate": "April 2023",
+    "changes": []
+  },
+  {
+    "version": "8.0.0",
+    "releaseDate": "March 2023",
+    "changes": [
+      {
+        "name": "Reporting",
+        "type": "New Feature",
+        "value": "Dashboard reports have been initialized."
+      },
+      {
+        "name": "Dashboard",
+        "type": "New Feature",
+        "value": "Completely restructured the dashboard with an updated group structure and functionality."
+      },
+      {
+        "name": "Filtering",
+        "type": "New Feature",
+        "value": "Basic filtering functionality as well as save-search has been implemented."
+      },
+      {
+        "name": "Interface",
+        "type": "New Feature",
+        "value": "New dashboard interface implemented. This is a complete overhaul of our dashboard interface."
+      },
+      {
+        "name": "Features",
+        "type": "New Feature",
+        "value": "This is a complete overhaul of existing features, with many new features added, including: Homepage, Users, Groups and Group Management, Reporting Tags, Learning Reports, Jobs Reports, Careers Reports, Video Reports, and Messaging and Notes functions."
+      }
+    ]
+  }
+]
